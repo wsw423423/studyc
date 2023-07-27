@@ -1,2 +1,2 @@
 # studyc
-to learn c/c++
+it's for me!learn c/c++!
