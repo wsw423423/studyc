@@ -1,0 +1,3 @@
+/Users/anderson/c++/study/gl/CMakeFiles/gl.dir
+/Users/anderson/c++/study/gl/CMakeFiles/edit_cache.dir
+/Users/anderson/c++/study/gl/CMakeFiles/rebuild_cache.dir
